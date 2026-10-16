@@ -71,7 +71,8 @@
   
   - 02 AI 만들어가는 세상 :
   - Mission :
-    <img src="02_mission.jpg" width="600" alt="Team Mission 2">
+    <img src="https://github.com/user-attachments/assets/d6d2ae79-6adf-4113-bd90-84e9ae82faac" width="600" alt="Team Mission 2">
+
   - 우리가 상상한 미래
   - 우리가 그리는 미래 그리고 나
 
