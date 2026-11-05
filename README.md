@@ -74,7 +74,8 @@
     <img src="https://github.com/user-attachments/assets/d6d2ae79-6adf-4113-bd90-84e9ae82faac" width="600" alt="Team Mission 2">
 
   - 우리가 상상한 미래
-    <img width="3179" height="4494" alt="404조_A0포스터" src="https://github.com/user-attachments/assets/bf8972f4-9408-495c-b0aa-f51e465b25c7" />
+    <img width="3179" height="4494" alt="404조_A0포스터" src="https://github.com/user-attachments/assets/02478ac9-380e-41aa-b261-23b362915742" />
+
     
   - 우리가 그리는 미래 그리고 나
 
