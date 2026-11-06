@@ -8,6 +8,8 @@
 
 <div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
 
+[포스터 PDF 보기](유레카프로젝트%20404조_A0포스터.pdf)
+
 <p align="center" class="poster-caption"><sub>SW01-04팀 | 박지현, 양세현, 이준영 | 곁 2050, AI활용 이미지 생성</a></sub></p>
 
 1965년에 35년 뒤의 생활을 상상해 그린 이 그림처럼, 우리 팀이 그리는 미래를 포스터로 만들어 봅시다.
